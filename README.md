@@ -22,4 +22,6 @@ https://www.wordproject.org/download/bibles/
 (.venv) E:\GRAND_MASTER\GRAND_PRO\PROJECTS\SWAHILI-MUSIC\BibleSrc>python process_bible.py sw_new.zip
 
 # Credits to :
+https://www.wordproject.org/download/bibles/
+
 https://github.com/shemmjunior/swahili-bible-edition?tab=readme-ov-file
